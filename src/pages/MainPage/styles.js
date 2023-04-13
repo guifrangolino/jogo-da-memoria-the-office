@@ -20,7 +20,7 @@ export const Container = styled.div`
 
   footer {
     a {
-      color: #000;
+      color: #fff;
     }
   }
 `
