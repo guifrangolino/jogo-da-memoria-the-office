@@ -19,6 +19,8 @@ export const Container = styled.div`
   }
 
   footer {
+    color: #fff;
+    
     a {
       color: #fff;
     }
