@@ -17,4 +17,10 @@ export const Container = styled.div`
     background-image: url('/images/start-background-mobile.jpg');
     background-position: center;
   }
+
+  footer {
+    a {
+      color: #000;
+    }
+  }
 `
