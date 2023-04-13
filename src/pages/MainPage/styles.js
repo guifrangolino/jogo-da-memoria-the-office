@@ -6,8 +6,8 @@ export const Container = styled.div`
   background-size: cover;
   background-position: right center;
   width: 100%;
-  height: 100svh;
   height: 100vh;
+  height: 100svh;
   display: flex;
   flex-direction: column;
   justify-content: center;
