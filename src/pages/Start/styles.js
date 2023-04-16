@@ -27,6 +27,8 @@ export const ContainerTitle = styled.div`
   h1 {
     color: #000;
     font-family: American Typewriter;
+    padding: 5px 10px;
+    text-shadow: 1px 1px #FFFFFF, -1px -1px #FFFFFF, -1px 1px #FFFFFF, 1px -1px #FFFFFF;
   }
 
   @media (max-width: 450px) {
